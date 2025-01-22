@@ -20,7 +20,7 @@ for pred_len in 96 192
 do
 for beta in 0.1
 do
-for seed in 2023 2024 2025
+for seed in 2025
 do
 python -u run.py \
   --time_feature_types HourOfDay DayOfWeek \
@@ -61,7 +61,7 @@ for pred_len in 336 720
 do
 for beta in 0.1
 do
-for seed in 2023 2024 2025
+for seed in 2025
 do
 python -u run.py \
   --time_feature_types HourOfDay DayOfWeek SeasonOfYear \
