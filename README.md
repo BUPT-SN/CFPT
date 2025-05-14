@@ -1,6 +1,6 @@
 # CFPT: Empowering Time Series Forecasting through Cross-Frequency Interaction and Periodic-Aware Timestamp Modeling
 
-This repo is the official implementation for the paper: [CFPT: Empowering Time Series Forecasting through Cross-Frequency Interaction and Periodic-Aware Timestamp Modeling].
+This repo is the official implementation for the paper: [CFPT: Empowering Time Series Forecasting through Cross-Frequency Interaction and Periodic-Aware Timestamp Modeling]. The paper has been accepted by ICML 2025.
 
 
 ## Usage 
